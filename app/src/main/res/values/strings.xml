@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">音乐播放器</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="about_tip1">一、这是一款轻便的音乐播放器，你可以播放本地下载的音乐</string>
+    <string name="about_tip2">二、你可以收藏音乐，也可以切换模式，有随机模式，单曲模式，顺序模式。</string>
+</resources>
